@@ -1,4 +1,4 @@
 In this PyLab each student will learn how to make contour plots of sea surface height (SSH) and eddy kinetic energy (EKE) using the geostrophic approximation. Students will learn about how an eddy is defined and quantified (Section 9.4 in the text). Students will also see how the SSH varies in space and time and quantify the statistical mean and standard deviation (root mean square), which helps to characterize the SSH to see where it varies the most in space by geographic region. For figures please provide appropriate axis labeling where possible, e.g. x- and y-axes and the colorbar.
 
-This PyLab was originally used in Google Colab and you will need to add a shortcut to the data (or downloaded directly): [link](https://drive.google.com/drive/folders/1-5Dt0iDBVkZPbNMSPd0fZ9VIAjEV6dIy?usp=sharing)
+This PyLab was originally used in Google Colab and you will need to add a shortcut to the data in your MyDrive (or downloaded directly): [link](https://drive.google.com/drive/folders/1-5Dt0iDBVkZPbNMSPd0fZ9VIAjEV6dIy?usp=sharing)
 
