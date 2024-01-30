@@ -3,3 +3,7 @@ matplotlib
 xarray
 netcdf4
 glob
+pandas
+requests
+dotenv
+os
