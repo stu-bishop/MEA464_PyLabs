@@ -2,6 +2,7 @@ numpy
 matplotlib
 xarray
 netcdf4
+pydap
 glob
 pandas
 requests
